@@ -1,0 +1,12 @@
+{
+  "name": "to",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src-sw.js",
+  "scripts": {
+    "serve": "http-server -p 1339 to-do -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
